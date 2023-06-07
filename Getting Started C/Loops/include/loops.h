@@ -1,0 +1,7 @@
+#ifndef NAVTECC_CLASS_INC_H
+#define NAVTECC_CLASS_INC_H
+
+#define NO  10
+#define CLASS   "THIS IS A GOOD CLASS"
+
+#endif /* NAVTECC_CLASS_INC_H */
