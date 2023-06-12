@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\structs.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\structs.dir/objects.a @CMakeFiles\structs.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -Wl,--whole-archive CMakeFiles\structs.dir/objects.a -Wl,--no-whole-archive -o structs.exe -Wl,--out-implib,libstructs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\structs.dir\linkLibs.rsp

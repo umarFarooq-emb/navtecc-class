@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\arrays.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\arrays.dir/objects.a @CMakeFiles\arrays.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -Wl,--whole-archive CMakeFiles\arrays.dir/objects.a -Wl,--no-whole-archive -o arrays.exe -Wl,--out-implib,libarrays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arrays.dir\linkLibs.rsp
