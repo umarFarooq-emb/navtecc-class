@@ -1,9 +1,13 @@
-# CLone Repository
+# NAVTECC-CLASS
 
-In your local PC, at the destination folder; clone this repository using the HTTP link and the command below
+This Repository contains all the work we do in the class, and a starting point for the students to start programming.
 
-```
-git clone https://github.com/umarFarooq-emb/navtecc-class.git
-```
+We have worked on the basics of `C programming` and also on arduino. Now, we have started working on `stm32`.
 
-Or you can just download the zip directory of this code and start compiling it.
+This repository has the following branches.
+
+- c-programming-getting-started
+- arduino-getting-started
+- stm32-getting-started
+
+Please move to each branch and download/clone the code, and get along with it.

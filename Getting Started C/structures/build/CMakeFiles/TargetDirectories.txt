@@ -1,3 +1,0 @@
-C:/Users/hp/Documents/Navtecc-Class/Getting Started C/structures/build/CMakeFiles/structs.dir
-C:/Users/hp/Documents/Navtecc-Class/Getting Started C/structures/build/CMakeFiles/edit_cache.dir
-C:/Users/hp/Documents/Navtecc-Class/Getting Started C/structures/build/CMakeFiles/rebuild_cache.dir
